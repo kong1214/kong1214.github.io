@@ -126,3 +126,9 @@ ul.icons {
             }
 
         }
+
+        span.comma {
+            font-family: Arial, sans-serif;
+            font-style: normal;
+            color: white;
+          }
