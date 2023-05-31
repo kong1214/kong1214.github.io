@@ -132,3 +132,10 @@ ul.icons {
             font-style: normal;
             color: white;
           }
+
+body{
+    background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?cs=srgb&dl=pexels-joyston-judah-933054.jpg&fm=jpg");
+    background-size: auto, cover;
+    background-attachment: fixed, fixed;
+    background-position: center, center;
+}
